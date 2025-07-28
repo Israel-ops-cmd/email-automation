@@ -41,6 +41,7 @@ O arquivo `.env` é ignorado pelo Git (via `.gitignore`) e **não é versionado*
 3. Instale as dependências:
   ```bash
   pip install -r requirements.txt
+    ```
 
 4. Execute o script main.py ou utilize o executável gerado (main.exe) para iniciar o envio.
 
