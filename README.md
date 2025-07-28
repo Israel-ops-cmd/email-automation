@@ -46,7 +46,7 @@ O arquivo `.env` é ignorado pelo Git (via `.gitignore`) e **não é versionado*
 4. Execute o script main.py ou utilize o executável gerado (main.exe) para iniciar o envio.
 
 📄 Registro de Software - Atividade Complementar
-Este software está sendo utilizado como registro de atividade complementar no curso de Bacharelado em Tecnologia da Informação, pela Universidade Federal do Rio Grande do Norte, como exemplo prático de aplicação de conhecimentos técnicos para resolver um problema real e otimizar processos de trabalho.
+Este software está sendo utilizado como registro de atividade complementar no curso de Bacharelado em Tecnologia da Informação, pela Universidade Federal do Rio Grande do Norte(UFRN), como exemplo prático de aplicação de conhecimentos técnicos para resolver um problema real e otimizar processos de trabalho.
 
 Desenvolvido com propósito profissional e educacional.
 © 2025 - Israel Felipe
